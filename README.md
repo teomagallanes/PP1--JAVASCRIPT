@@ -6,8 +6,9 @@ Aplicación web desarrollada en **React + Vite** que consume la API REST del pro
 
 ## 👥 Integrantes
 
-- Nombre y Apellido
-- Nombre y Apellido
+- Bruno Molaioli
+- Mateo Magallanes
+- Danilo Posseto
 
 ---
 
